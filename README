@@ -1,0 +1,24 @@
+------------ NOTES 28/04/09 --------------
+
+do a make install-strip to strip the code ! ;-)
+
+D.B.
+
+------------ NOTES 28/04/09 --------------
+
+use ./configure --enable-ipv6 to enable ipv6
+
+D.B.
+------------ NOTES 09/10/08 --------------
+
+use ./configure --disable-assert to disable asserts
+
+D.B.
+------------ NOTES 28/10/08 --------------
+
+use ./configure --enable-debug to enable debugs
+
+D.B.
+-----------------------------------------
+
+
